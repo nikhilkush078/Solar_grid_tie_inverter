@@ -69,7 +69,7 @@
 
 ## 📺 Project Demonstration
 Check out the project in action here:
-[![Solar Inverter Demo](https://img.shields.io/badge/YouTube-Watch%20Now-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Solar Inverter Demo](https://img.shields.io/badge/YouTube-Watch%20Now-red?style=for-the-badge&logo=youtube)](https://youtu.be/mVSvRw4_UGU?si=PMxf_m9TphzUmlP7)
 *(Note: Replace the link with your actual project video)*
 
 ---
